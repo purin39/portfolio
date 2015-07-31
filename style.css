@@ -74,6 +74,7 @@ section ul{
 }
 
 section ul li.works{
+  width:200px;
   margin:0 1px 20px;
   float:left;
 }
